@@ -577,6 +577,8 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+.idea/
+
 .env
 # JetBrains Rider
 *.sln.iml
